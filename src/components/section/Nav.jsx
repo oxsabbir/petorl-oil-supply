@@ -8,7 +8,7 @@ const Nav = function () {
 
   return (
     <>
-      <nav className=" sticky top-0 z-10 bg-mainRed">
+      <nav className=" bg-mainRed">
         <div className="sm:container py-[10px]  flex justify-between items-center  md:h-[105px] text-white">
           <div className="flex justify-between w-full items-center">
             <img className=" w-[192px] h-[44px ]" src={Logo} alt="Logo" />
